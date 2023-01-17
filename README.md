@@ -15,4 +15,14 @@ Requirement Specification:
 Judging Metrics: Provide kappa score as Judging metrics
 
 
+About this file
+
+There are 6252 images in train and 2680 images in test data. The categories of ships and their corresponding codes in the dataset are as follows -
+
+{'Cargo': 1,
+'Military': 2,
+'Carrier': 3,
+'Cruise': 4,
+'Tankers': 5}
+
 
