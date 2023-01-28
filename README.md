@@ -27,7 +27,7 @@ There are 6252 images in train and 2680 images in test data. The categories of s
 
 ![image](https://user-images.githubusercontent.com/79403322/212904965-a965a5e6-7c6c-41d9-92fd-327dcdf2a1c4.png)
 
-1. Training size : 65
-2. Test size : 10
-3. validation size: 15
+1. Training size : 60
+2. Test size : 15
+3. validation size: 25
 
