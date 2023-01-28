@@ -31,3 +31,4 @@ There are 6252 images in train and 2680 images in test data. The categories of s
 2. Test size : 15
 3. validation size: 25
 
+TASK 2: Prediction app files link : https://drive.google.com/file/d/1hRjuD-tB3FfvikfFPTMsg8gWzh1Y1S3v/view?usp=sharing
